@@ -8,9 +8,22 @@
 
 ###################################
 
-def largest(num):
-  num.sort()
-  print("Largest number is:", num[-1] )
+# def largest(num):
+#   num.sort()
+#   print("Largest number is:", num[-1] )
 
-largest([1, 2, 3, 4, 0])
-largest([10, 4, 2, 231, 91, 54])
+# largest([1, 2, 3, 4, 0])
+# largest([10, 4, 2, 231, 91, 54])
+
+####################################
+
+# def occurrences(first, second):
+#   count = first.count(second)
+#   print(count)
+
+# occurrences('fleep floop', 'e')
+# occurrences('fleep floop', 'p')
+# occurrences('fleep floop', 'ee')
+# occurrences('fleep floop', 'fe')
+
+####################################
